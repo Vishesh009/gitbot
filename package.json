@@ -1,0 +1,24 @@
+{
+  "name": "gitbot",
+  "version": "1.0.0",
+  "description": "Hacking github contributions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Vishesh009/gitbot.git"
+  },
+  "author": "Vishesh Bajpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishesh009/gitbot/issues"
+  },
+  "homepage": "https://github.com/Vishesh009/gitbot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "simple-git": "^3.14.1"
+  }
+}
